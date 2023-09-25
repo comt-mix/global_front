@@ -26,7 +26,7 @@ app.use(i18n);
 
 app.use(
   createGtm({
-    id: "GTM-T8FJBTF",
+    // id: "GTM-T8FJBTF",
     defer: false,
     enabled: true,
     debug: false,
